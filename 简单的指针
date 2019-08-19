@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main(void)
+{
+  int a = 12;
+  int *pt = NULL;
+  
+  ptr = &a;
+  
+  的的的的的的的的printf（“指针的地址为：%p\n",pt);
+  pruntf（”指针的值为：%d\n",pt);
+  
+  return 0;
+  }
